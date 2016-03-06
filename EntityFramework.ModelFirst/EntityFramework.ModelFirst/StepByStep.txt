@@ -1,0 +1,13 @@
+﻿Simple Project ASP NET MVC using Entity Framework ModelFirst - Tutorial
+
+1- Create a new empty web project using MVC structure
+
+2- Add a model class ADO.NET Entity Data Model
+
+3- Choose Empty EF designer Model
+
+4- Add a new Entity(name of your table) and the properties (atributes in your table)
+
+5- With the right button, choose Create DataBase...
+
+6- The Context and the class with the properties will be created and after that, you will be ready to use
